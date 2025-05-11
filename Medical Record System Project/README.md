@@ -1,5 +1,5 @@
 🏥 Medical Record System – Spring Boot Project
-This is a Java web application developed for the CSCB869 Java Web Services course at NBU (Spring 2024/2025), supervised by Dr. Hristina Kostadinova. The system manages patient medical records including visits, diagnoses, treatments, and sick leaves, with different access roles (PATIENT, DOCTOR, ADMIN).
+This is a Java web application developed for the CSCB869 Java Web Services course at NBU (Spring 2024/2025). The system manages patient medical records including visits, diagnoses, treatments, and sick leaves, with different access roles (PATIENT, DOCTOR, ADMIN).
 
 🔧 Tech Stack
 Backend: Spring Boot, Spring Data JPA, Spring Security
